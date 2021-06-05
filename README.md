@@ -2,7 +2,7 @@
 
 ## SleepQualityTracker
 
-The SleepQualityTracker app is an utility based app that helps you collect information about your sleep. 
+The SleepQualityTracker app is a utility-based app that helps you collect information about your sleep. 
 * Start time
 * End time
 * Quality
